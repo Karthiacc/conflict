@@ -9,8 +9,15 @@ public class Sample {
 	private void empname() {
 		System.out.println("hari");
 	}
+	private void emppf() {
+		System.out.println("456789786543567");
+	}
+//<<<<<<< HEAD
+//	
+//=======
 	private void empsalary() {
 		System.out.println("7000000");
+//>>>>>>> 60f7f591e53c2edad31ccb72f387dc0049abc994
 	}
 	private void empno() {
 		System.out.println("98989787878");
