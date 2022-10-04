@@ -9,6 +9,9 @@ public class Sample {
 	private void empname() {
 		System.out.println("hari");
 	}
+	private void empsalary() {
+		System.out.println("7000000");
+	}
 	private void empno() {
 		System.out.println("98989787878");
 	}
